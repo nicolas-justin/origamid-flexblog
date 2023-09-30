@@ -1,0 +1,23 @@
+.top-info-outer {
+  background: #122ab2;
+  color: #fff;
+}
+
+.top-info-inner {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+}
+
+.top-info-inner p,
+.top-info-inner a {
+  margin: 0 10px 10px 10px;
+}
+
+.top-info-inner a {
+  color: #fff;
+}
